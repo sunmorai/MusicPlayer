@@ -5,8 +5,8 @@ This project is a console-based music player that plays WAV files using C++ and 
 
 ## Features
 - Play WAV audio files.
-- AI-driven song suggestion using Python.
-- Console-based interface.
+- AI-driven song suggestion using Python. (will get there)
+- Console-based interface. (for now)
 
 ## Requirements
 ### C++
